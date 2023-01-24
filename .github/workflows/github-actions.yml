@@ -1,5 +1,5 @@
-name: Github Actions
 on: push
+name: Github Actions
 jobs:
   init:
     runs-on: ubuntu-latest
